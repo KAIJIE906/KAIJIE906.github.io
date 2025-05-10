@@ -1,7 +1,7 @@
 @charset "UTF-8";
 * {
-  font-family: "Roboto", 微軟正黑體;
-  color: #222;
+  font-family: "Gill Sans Extrabold",標楷體 ;
+  color: #9a9aa000;
 }
 
 html, body {
@@ -11,9 +11,9 @@ html, body {
 }
 
 body {
-  padding: 40px;
-  height: 100vh;
-  border: solid 5px #888;
+  padding: 50px;
+  height: 150vh;
+  border: solid 7px #888;
 }
 
 .col-control {
@@ -151,3 +151,11 @@ h2 {
 .add_room {
   cursor: pointer;
 }
+
+P{
+  
+    font-family: "Gill Sans Extrabold",標楷體 ;
+    color: #9a9aa000;
+  }
+
+
